@@ -1,1 +1,4 @@
-"author": "Jane Doe",
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Jane Doe"
+}
